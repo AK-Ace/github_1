@@ -1,0 +1,3 @@
+# github化
+
+Initial repository setup.
