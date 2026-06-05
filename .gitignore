@@ -1,0 +1,3 @@
+.env
+node_modules/
+.gitignore→.env,以及nodejs项目的node_modules/（有斜杠表示是一个目录，存放所有第三方软件依赖包(这里涉及npm里面很多文件,可用npm install随时下载)这样文件就不再被git管理
